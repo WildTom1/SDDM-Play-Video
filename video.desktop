@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Video Play
+Comment=Play a video
+Exec=/usr/local/bin/playVid.sh
+Type=Application
