@@ -18,4 +18,5 @@ sudo mkdir /usr/share/playVid
 
 echo "To work, you need to set SDDM to autologin to \"Video Play\""
 echo "Put videos into \"/usr/share/playVid\""
+echo "You can also create a file \"/etc/playVid.conf\" to change the video location."
 echo "Installed finished"
