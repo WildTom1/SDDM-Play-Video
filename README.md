@@ -19,7 +19,6 @@ cd SDDM-Play-Video
 chmod +x install.sh
 ./install.sh
 cd ../
-rm -r SDDM-Play-Video
 ```
 
 ## Config
