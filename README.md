@@ -7,12 +7,12 @@ VLC
 Openbox
 
 ## Installation:
-###Manual
+### Manual
 1. download the reposatory
 2. (If necessary) Chomd +x the files
-3. run ./install
+3. run ./install.sh
 4. set SDDM to autologin into "Play Video"
-###Automatic
+### Automatic
 ```
 git clone https://github.com/WildTom1/SDDM-Play-Video.git
 cd SDDM-Play-Video
