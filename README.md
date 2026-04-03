@@ -13,5 +13,5 @@ Openbox
 4. set SDDM to autologin into "Play Video"
 
 ## Config
-Config is kept at "/etc/playVid.conf" (you will need to create it)
+Config is kept at "/etc/playVid.conf" (you will need to create it)  
 The only thing in the config will be a single line for the location of the videos (needs to be a folder and not a video file).
