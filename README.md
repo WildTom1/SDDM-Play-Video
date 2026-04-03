@@ -13,12 +13,14 @@ Openbox
 3. run ./install
 4. set SDDM to autologin into "Play Video"
 ###Automatic
-`git clone https://github.com/WildTom1/SDDM-Play-Video.git  
-cd SDDM-Play-Video  
-chmod +x install.sh  
-./install.sh  
-cd ../  
-rm -r SDDM-Play-Video`
+```
+git clone https://github.com/WildTom1/SDDM-Play-Video.git
+cd SDDM-Play-Video
+chmod +x install.sh
+./install.sh
+cd ../
+rm -r SDDM-Play-Video
+```
 
 ## Config
 Config is kept at "/etc/playVid.conf" (you will need to create it)  
